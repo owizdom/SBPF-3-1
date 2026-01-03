@@ -1,0 +1,11 @@
+[package]
+name = "sbpf-decompiler"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+
+[dependencies]
+clap = { workspace = true }
+sbpf-common = { path = "../sbpf-common" }
+anyhow = { workspace = true }
