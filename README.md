@@ -2,8 +2,6 @@
 
 A comprehensive toolkit for analyzing and decompiling SBPF (Solana Berkeley Packet Filter) binaries.
 
-*Last updated: January 6, 2026*
-
 This workspace contains two main tools:
 
 - **sbpf-analyzer** - Analyze SBPF binaries and extract metadata, instruction statistics, syscall usage, and control flow information
